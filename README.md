@@ -14,6 +14,4 @@ Tokenization is the process of breaking a stream of text up into words, symbols,
 
 Types of tokenization - 
 
-![](tokenization.PNG)
-
-
+![](Images/tokenization.PNG)
