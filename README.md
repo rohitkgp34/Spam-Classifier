@@ -6,7 +6,7 @@ Objective -
 * To give knowledge to the user about the fake e-mails and relevant e-mails
 * To classify that mail spam or not
 
-# NLP Baic Algorithm's - 
+# NLP Basic Algorithm's - 
 
 # Tokenization # 
 
